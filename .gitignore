@@ -2,3 +2,11 @@
 # Large data files
 *.csv
 Book-Crossing User Ratings/
+
+# OS
+.DS_Store
+
+# Tableau
+*.twb
+*.twbx
+*.twbr

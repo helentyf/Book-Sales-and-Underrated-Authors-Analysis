@@ -16,6 +16,23 @@ How do user demographics correlate with rating behavior?
 3. **Data visualization:** Tableau - Interactive dashboards and visualizations
 4. **File formats:** CSV, Excel (openpyxl) - Data storage and export formats
 
+# Project Summary
+
+This project cleans and integrates Goodreads and Book-Crossing data to surface high-potential books and publishers. The analysis focuses on identifying highly rated books with low visibility and translating those findings into a sales-oriented strategy.
+
+Key outputs:
+- Cleaned, standardized datasets with reliable identifiers and consistent rating scales.
+- A master dataset with engagement and rating gap metrics for opportunity analysis.
+- Two interactive Tableau dashboards that move from discovery to action.
+
+# Tableau Dashboards
+
+Tableau Public link: https://public.tableau.com/views/BookRevenueEdge_Tableau_Dashboard/Dashboard2SalesStrategy?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboards included:
+- **Hidden Gems Discovery**: Define what counts as a hidden gem using sliders, then explore which publishers and books stand out.
+- **Actionable Sales Strategy**: Compare engagement and rating gaps, and select priority books to build a focused sales list.
+
 # Data Sources
 
 Two datasets are referenced for comparison in this analysis:
