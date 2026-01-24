@@ -27,7 +27,9 @@ Key outputs:
 
 # Tableau Dashboards
 
-Tableau Public link: https://public.tableau.com/views/BookRevenueEdge_Tableau_Dashboard/Dashboard2SalesStrategy?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau Public links:
+- **Dashboard 2 – Actionable Sales Strategy**: https://public.tableau.com/views/Dashboard2-SalesStrategy/Dashboard2SalesStrategy?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Dashboard 1 – Hidden Gems Discovery**: https://public.tableau.com/views/Dashboard1-HiddenGemsDiscovery/Dashboard1-HiddenGemsDiscovery?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Dashboards included:
 - **Hidden Gems Discovery**: Define what counts as a hidden gem using sliders, then explore which publishers and books stand out.
